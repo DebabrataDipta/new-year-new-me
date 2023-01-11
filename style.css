@@ -39,3 +39,48 @@
     border-radius: 5px;
     border-style: none;
 }
+.my-failure{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    gap: 75px;
+    align-items: center;
+}
+.my-profile{
+    margin-top: 100px;
+}
+.failure-title{
+    font-size: 40px;
+    font-weight: 700;
+}
+.failure-description{
+    color: #444343;
+    font-size: 17px;
+    margin-top: 15px;
+}
+.belief{
+    margin-top: 10px;
+    font-size: 17px;
+    color: #444343;
+}
+.plan-title{
+    margin-top: 80px;
+    margin-bottom: 40px;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+.plan-list{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+}
+.item-title{
+    margin-top: 10px;
+    font-weight: 700;
+}
+.item-para{
+    color: #444343;
+    margin-top: 10px;
+}
