@@ -84,3 +84,78 @@
     color: #444343;
     margin-top: 10px;
 }
+.contact{
+    margin-top: 100px;
+}
+.contact-section{
+    background-image: url("images/watch.png"),linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    background-blend-mode: overlay;
+    width: 70%;
+    background-position: center left;
+    height: 300px;
+    margin: auto;
+    border-radius: 10px;
+    border-style: none;
+    
+}
+.contact-info{
+    padding: 70px;
+}
+.contact-title{
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 15px;
+}
+.btn-secondary{
+    margin-top: 10px;
+    background-color: white;
+    color: #F15B22;
+    padding: 20px;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.footer{
+    margin-top: 100px;
+    background-color: black;
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 90px;
+}
+
+.footer-left-part{
+    color: white;
+}
+
+.user-email{
+    width: 150%;
+    height: 50px;
+    padding: 5px;
+    border-radius: 8px;
+}
+.footer-left-part{
+    margin-left: 80px;
+}
+.footer-title{
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.footer-para{
+    margin-bottom: 20px;
+}
+.footer-info{
+    margin-bottom: 20px;
+}
+.link-image{
+    margin-right: 10px;
+}
+.footer-right-title{
+    color: white;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
